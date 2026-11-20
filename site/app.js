@@ -2,8 +2,8 @@
   const root = document.documentElement;
   const COPY = {
     lede: {
-      en: "This site gathers the information for the recommendation letters. It includes my profile, what I am looking for in the doctorate, and the six programs for which I need the letters, with the faculty and their publications. At the end are my CV, personal statement, and study objective.",
-      es: "Este sitio reúne la información para las cartas de recomendación. Incluye mi perfil, lo que busco en el doctorado y el listado de los seis programas para los que necesito las cartas, con los académicos y sus publicaciones. Al final están mi CV, el personal statement y el objetivo de estudio."
+      en: "This site gathers the information for the recommendation letters. It includes my profile, what I am looking for in the doctorate, and the seven programs for which I need the letters, with the faculty and their publications. At the end are my CV, personal statement, and study objective.",
+      es: "Este sitio reúne la información para las cartas de recomendación. Incluye mi perfil, lo que busco en el doctorado y el listado de los siete programas para los que necesito las cartas, con los académicos y sus publicaciones. Al final están mi CV, el personal statement y el objetivo de estudio."
     },
     intro: {
       en: "I am a statistician and epidemiological modeler with a background in the social sciences. I work on tuberculosis and influenza, and I want to understand respiratory infectious diseases more clearly: where they concentrate, how much of that concentration is explained by shared air and housing, and how to turn surveillance data into evidence. I am an early career researcher at SENTINET in Chile and a Lagrange fellow at the ISI Foundation. I want to do the doctorate to be competitive at an international level.",

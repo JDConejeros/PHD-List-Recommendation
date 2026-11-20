@@ -1308,6 +1308,95 @@ window.DOSSIER = {
       "group": "independent"
     },
     {
+      "id": "northeastern",
+      "short": "Northeastern",
+      "city": "Boston",
+      "color": "#f2c14e",
+      "university": "Northeastern University, Network Science Institute",
+      "program": "PhD in Network Science",
+      "url": "https://www.networkscienceinstitute.org/academics/phd",
+      "coursesUrl": "https://catalog.northeastern.edu/graduate/social-sciences-humanities/interdisciplinary/network-science-phd/",
+      "fit": {
+        "en": "The PhD requires 40 semester hours. The fixed core is Network Science 1, computational methods, and statistical methods. Two further core courses are chosen from Network Science 2, machine learning with graphs, social networks, and dynamical processes on networks, and 20 hours are electives. A qualifying exam is taken by the fall of the third year, and the dissertation proposal in the fourth. Admitted students are usually funded for five years. The alternative is the PhD in Physics, which includes a network science specialization and the same priority deadline.",
+        "es": "El doctorado exige 40 créditos semestrales. El núcleo fijo es Network Science 1, métodos computacionales y métodos estadísticos. Dos cursos más del núcleo se eligen entre Network Science 2, aprendizaje automático en grafos, redes sociales y procesos dinámicos en redes, y hay 20 horas de electivos. El examen de calificación es a más tardar en el otoño del tercer año, y la propuesta de tesis en el cuarto. La admisión suele incluir financiamiento por cinco años. La alternativa es el PhD in Physics, que incluye una especialización en ciencia de redes y cierra en la misma fecha."
+      },
+      "courses": [
+        {
+          "code": "NETS 5116",
+          "title": "Network Science 1"
+        },
+        {
+          "code": "NETS 7052",
+          "title": "Computational Methods for Network Science"
+        },
+        {
+          "code": "NETS 7380",
+          "title": "Statistical Methods for Network Science"
+        },
+        {
+          "code": "NETS 6116",
+          "title": "Network Science 2, or machine learning with graphs, social networks, or dynamical processes. Two courses from this set"
+        }
+      ],
+      "courseNote": {
+        "en": "Electives can follow an epidemiology and public health path. Preapproved options include intermediate epidemiology, population health, and causal inference in public health. The PhD in Physics is a separate application, with a network science specialization.",
+        "es": "Los electivos pueden seguir una vía de epidemiología y salud pública. Entre las opciones ya aprobadas están epidemiología intermedia, salud poblacional e inferencia causal en salud pública. El PhD in Physics es una postulación aparte, con especialización en ciencia de redes."
+      },
+      "faculty": [
+        {
+          "name": "Mauricio Santillana",
+          "about": {
+            "en": "Epidemic forecasting and mathematical models of disease spread. Northeastern University.",
+            "es": "Pronóstico de epidemias y modelos matemáticos de la propagación de enfermedades. Northeastern University."
+          },
+          "url": "https://www.mighte.org/",
+          "photo": "mauricio-santillana.jpg",
+          "papers": [
+            {
+              "year": "2026",
+              "title": "Choosing the spatial scale of aggregation in epidemic models: compression versus distortion",
+              "journal": "medRxiv",
+              "doi": "10.64898/2026.10.20.26366033",
+              "authors": [
+                "Bhora YR",
+                "Das HK",
+                "Kiss IZ",
+                "Parag KV"
+              ],
+              "preprint": true
+            },
+            {
+              "year": "2026",
+              "title": "The paradox of neglecting changes in behavior: How standard epidemic models misestimate both transmissibility and final epidemic size",
+              "journal": "PLoS Comput Biol",
+              "doi": "10.1371/journal.pcbi.1014746",
+              "authors": [
+                "Pant B",
+                "Lalovic M",
+                "Kiss IZ",
+                "Santillana M"
+              ],
+              "preprint": false
+            },
+            {
+              "year": "2026",
+              "title": "A real-time early warning system to anticipate respiratory disease outbreaks using transfer learning",
+              "journal": "Nat Commun",
+              "doi": "10.1038/s41467-026-72655-7",
+              "authors": [
+                "Garrido-Garcia R",
+                "Clemente L",
+                "Meyer AG",
+                "Dewey G"
+              ],
+              "preprint": false
+            }
+          ]
+        }
+      ],
+      "group": "independent"
+    },
+    {
       "id": "washington",
       "short": "Washington",
       "city": "Seattle",
