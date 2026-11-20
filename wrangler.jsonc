@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "phd-recommenders",
+  "name": "phd-jconejeros",
   "compatibility_date": "2026-11-20",
   "assets": {
     "directory": "./site"
