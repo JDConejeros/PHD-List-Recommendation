@@ -53,3 +53,14 @@ rsconnect/
 src/*.o
 src/*.so
 src/*.dll
+
+# site tooling
+node_modules/
+.wrangler/
+.dev.vars
+
+# Extra files 
+Skills/
+Insumos/
+
+
